@@ -8,7 +8,7 @@ Python 3.9.5 : 	https://www.python.org/downloads/release/python-395/
 
 
 Pour lancer le programme :
-	- Ouvrir les fichier python (monod1, monod2, monod3).
+	- Ouvrir les fichiers python (monod1, monod2, monod3).
 	- Executer via Spyder ou Jupyter.
 
 Information :
